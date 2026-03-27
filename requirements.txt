@@ -1,6 +1,7 @@
-livekit-agents[codecs]>=1.4.6
-livekit-plugins-openai>=1.4.6
-livekit-plugins-sarvam>=1.4.6
+livekit-agents[codecs]>=1.5.1
+livekit-plugins-openai>=1.5.1
+livekit-plugins-sarvam>=1.5.1
+livekit-plugins-silero>=1.5.1
+livekit-plugins-noise-cancellation>=0.2.5
 python-dotenv>=1.0.0
 aiohttp>=3.10.0
- 
